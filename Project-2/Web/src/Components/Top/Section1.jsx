@@ -1,10 +1,11 @@
-import Navbar from './Navbar'
+import Navbar from "./Navbar"
 
-const Section1 = () => {
+const Section1 = ({ darkMode, setDarkMode }) => {
   return (
-    <div>
-      <Navbar/>
-    </div>
+    <Navbar
+      darkMode={darkMode}
+      setDarkMode={setDarkMode}
+    />
   )
 }
 
