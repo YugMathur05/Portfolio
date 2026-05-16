@@ -99,16 +99,6 @@ Start development server:
 npm run dev
 ```
 
----
-
-# 📬 Contact Me
-
-- 💼 LinkedIn: https://linkedin.com/in/yourusername
-- 💻 GitHub: https://github.com/YugMathur05
-- 📧 Email: yourmail@example.com
-
----
-
 # 👨‍💻 Author
 
 **Yug Mathur**
