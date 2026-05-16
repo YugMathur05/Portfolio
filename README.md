@@ -22,7 +22,8 @@ The website is fully responsive and designed with a clean modern UI.
 
 ## 🏠 Homepage
 ![Homepage](./Project-2/Web/Project_img/img1.png)
-
+## ⚫ Dark Mode
+![Dark Mode](./Project-2/Web/Project_img/img4.png)
 ---
 ## 🚀 Projects Section
 
