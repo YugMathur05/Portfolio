@@ -11,7 +11,7 @@ const Project = () => {
         <div className="bg-white shadow-lg rounded-2xl p-6 mb-8 hover:shadow-2xl transition duration-300">
 
           <h3 className="text-2xl font-semibold text-blue-600 mb-4">
-            <a href="#">Portfolio Website</a>
+            <a href="https://yugmathur.netlify.app/">Portfolio Website</a>
           </h3>
 
           <p className="text-gray-600 text-base md:text-lg leading-8">
