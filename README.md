@@ -21,7 +21,7 @@ The website is fully responsive and designed with a clean modern UI.
 # 📸 Project Screenshots
 
 ## 🏠 Homepage
-![Screenshot 1](./Project_img/img1.png)
+![Preview 1](./Project_img/img1.png)
 
 
 
