@@ -24,15 +24,17 @@ The website is fully responsive and designed with a clean modern UI.
 ![Homepage](./Project-2/Web/Project_img/img1.png)
 
 ---
+## 🚀 Projects Section
+
+![About](./Project-2/Web/Project_img/img2.png)
+---
 
 ## 💻 Skills Section
 
 ![Projects](./Project-2/Web/Project_img/img3.png)
----
 
-## 🚀 Projects Section
 
-![About](./Project-2/Web/Project_img/img2.png)
+
 
 # ✨ Features
 
